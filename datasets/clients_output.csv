@@ -1,0 +1,11 @@
+id,nom,prenom,age,ville,gmail,categorie
+1,Dupont,Jean,25,Paris,jean.dupont@gmail.com,Jeune adulte
+2,Martin,Marie,17,Lyon,marie.martin@gmail.com,Mineur
+3,Bernard,Pierre,32,Marseille,pierre.bernard@gmail.com,Adulte
+4,Petit,Sophie,22,Lille,sophie.petit@gmail.com,Jeune adulte
+5,Moreau,Thomas,45,Bordeaux,thomas.moreau@gmail.com,Adulte
+6,Laurent,Julie,29,Nantes,julie.laurent@gmail.com,Jeune adulte
+7,Simon,Luc,16,Strasbourg,luc.simon@gmail.com,Mineur
+8,Michel,Alice,35,Toulouse,alice.michel@gmail.com,Adulte
+9,Garcia,Robert,27,Montpellier,robert.garcia@gmail.com,Jeune adulte
+10,David,Claire,41,Rennes,claire.david@gmail.com,Adulte
