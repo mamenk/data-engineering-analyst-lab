@@ -1,0 +1,7 @@
+id,name,age,city,salary
+1,Kader,25,Paris,2500
+2,Alice,30,Lyon,3200
+3,Bob,,Marseille,2800
+4,Eva,29,,3000
+5,Tom,22,Paris,
+6,Sara,35,Lyon,4100
