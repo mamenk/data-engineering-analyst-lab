@@ -1,0 +1,4 @@
+date,product,city,quantity,price
+2025-02-01,Laptop,Paris,1,1200
+2025-02-02,Mouse,Marseille,10,25
+2025-02-05,Keyboard,Lyon,,75
